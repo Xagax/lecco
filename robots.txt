@@ -3,11 +3,11 @@
    <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Cache-Control" content="no-cache" />
 <meta name="revisit" content="1 days" />
-<meta NAME="Subject" CONTENT="Nutracéuticos Lecco" />
-<meta name="classification" content="Nutracéuticos Lecco" />
-<meta name="description" content="Nutracéuticos Lecco" />
-<meta name="keywords"content= "Nutracéuticos Lecco, laboratorio Lecco, Nutraceuticos, Defense, Flex, Fem, Balance, Vital, QUERCETINA, RESVERATROL,
-www.lecco.com.ar, venta de nutraceuticos, venta online, nutraceuticos online" />
+<meta NAME="Subject" CONTENT="Nutracï¿½uticos Lecco" />
+<meta name="classification" content="Nutracï¿½uticos Lecco" />
+<meta name="description" content="Nutracï¿½uticos Lecco" />
+<meta name="keywords"content= "Nutracï¿½uticos Lecco, laboratorio Lecco, Nutraceuticos, Defense, Flex, Fem, Balance, Vital, QUERCETINA, RESVERATROL,
+lecco.com.ar, venta de nutraceuticos, venta online, nutraceuticos online" />
 <meta name="robots" content="index,follow" />
 <meta name="distribution" content="Global" />
 <meta name="rating" content="General" />
